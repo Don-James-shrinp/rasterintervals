@@ -12,8 +12,8 @@ else
         LDFLAGS =
 endif
 
-SOURCE = ./read.cpp
-EXE = read	
+SOURCE = ./transfer.cpp
+EXE = transfer	
 
 all: main
 
